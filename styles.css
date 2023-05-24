@@ -1,4 +1,15 @@
 /*  your css code here. If applicable */
+body{
+	background:black;
+	color:white;
+}
 #photo-heading{
 	text-align:center;
+	
+}
+img{
+width:200px;
+	border-radius:30px;
+	padding:10px;
+
 }
